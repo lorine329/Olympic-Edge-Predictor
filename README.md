@@ -1,16 +1,20 @@
 # Olympic-Edge-Predictor
 
 ## Overview
-Olympic Edge Predictor is a data analytics project aimed at exploring the intricate dynamics of the Olympic Games, focusing on how the host city influences the performance of its national athletes. Utilizing an expansive dataset encompassing various aspects of the athletes and the games, this project employs advanced feature engineering and predictive modeling techniques to uncover patterns and forecast future Olympic medal outcomes with high accuracy.
+OlympicPerformanceInsights is a groundbreaking project designed to unravel the impact of Olympic host cities on athlete performance, leveraging a wealth of data and advanced analytical techniques. This project not only demystifies historical trends but also sets the stage for predicting future medal outcomes with remarkable precision, offering invaluable insights for athletes, coaches, and policymakers.
 
 ## Features
-- Data Cleaning and Preparation: Rigorous data cleaning and preparation to ensure a high-quality dataset for analysis.
-Feature Engineering: Sophisticated feature engineering to explore the host city's impact on athletes' performance.
-- Predictive Modeling: Development of an advanced predictive model using Random Forest, optimized with Principal Component Analysis (PCA) to accurately forecast Olympic medal outcomes.
-- Performance Analysis: In-depth analysis of the model's predictive performance, including the significance of predictors and their contribution to forecasting accuracy.
+### Data Exploration 
+Detailed analysis of datasets spanning decades of Olympic history, focusing on athlete performance metrics, host city characteristics, and environmental factors.
+### Feature Engineering
+Creation of innovative features capturing the essence of home advantage, athlete preparedness, and external influences, enhancing the model's predictive power.
+### Predictive Modeling 
+Deployment of a sophisticated machine learning pipeline, incorporating models such as Random Forest and Gradient Boosting, fine-tuned through exhaustive hyperparameter optimization.
+### Performance Analysis
+A comprehensive evaluation of model findings, highlighting key drivers of Olympic success and the nuanced role of host city dynamics.
 
 ## Technologies Used
 - Python for data processing and model development.
-- Scikit-learn for predictive modeling and PCA.
-- Matplotlib and Seaborn for data visualization.
+- R for predictive modeling and PCA.
+- R for data visualization.
 
